@@ -1,3 +1,6 @@
+Student No- 68241070
+Nqobile Sibanyoni
+
 # COS4861 
 
 This is the NLP COS4861 skeleton. New classes and test cases will be placed here for you to incorporate into your code base.
